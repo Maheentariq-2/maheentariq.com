@@ -1,0 +1,128 @@
+body 
+{
+    background-color: black;
+    
+}
+.mydiv
+{
+float: left;
+background-color: black;
+color: white;
+margin-left: 2em;
+padding: 1em;
+display: flex;
+flex-direction: column;
+position: sticky;
+}
+#div1 
+{
+position: relative;
+}
+#div2
+{
+position: relative;
+}
+#div3
+{
+position: relative;
+}
+#div4
+{
+position: relative;
+}
+#div5
+{
+position: relative;
+}
+#img1
+{
+    float: left;
+    width: 3cm;
+}
+#img2
+{
+    float:left;
+    width:10cm;
+    height: 10cm;
+    margin-right:"1vw";
+    position: relative;
+    top: 5cm;
+    right: 21cm;
+
+}
+
+button
+{
+    float:right;
+    background-color: aqua;
+    color: black;
+    top: 0.9cm;
+    right:6cm;
+    padding: 0.3%;
+    padding-right: 1.3%;
+    padding-left: 1.3%;
+    display:flex;
+    flex: sticky;
+    border: 2px solid;
+    position: relative;
+
+}
+.divv
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding-right: 5%;
+    padding-left: 40%;
+    
+    
+
+}
+#diva 
+{ flex: 1;
+    position: relative;
+    font-size: medium;
+    color: aqua;
+    top:-4cm;
+ 
+
+}
+#divb
+{ position: relative;
+    font-size: 36px;
+    color: white;
+    top:-5cm;
+  
+}
+#divc
+{position: relative;
+    font-size: 36px;
+    color: aqua;
+    top:-7cm;
+
+
+}
+#divd
+{
+position: relative;
+font-size: 18px;
+color: white;
+top:-8cm;
+}
+#dive
+{
+    position: relative;
+    top: -7cm;
+    border:2px solid aqua;
+    color: aqua;
+    background-color: black;
+    padding: 0.3%;
+    right: 50.5%;
+    padding-right:1.3% ;
+    padding-left:1.3% ;
+
+    
+    
+}
+
